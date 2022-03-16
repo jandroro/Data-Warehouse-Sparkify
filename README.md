@@ -1,4 +1,4 @@
-# Sparkify - Data Modeling and ETL Pipeline
+# Sparkify - Data Warehouse
 
 The main objective of the project is to model a database schema in Redshift and create an ETL pipeline using Python for a startup called Sparkify, which wants to move their processes and data onto the cloud to analyze and query the data about songs and user activity (logs) from its new music streaming app using cloud services.
 
